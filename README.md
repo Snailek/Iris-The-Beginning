@@ -1,1 +1,2 @@
-# Iris-The-Beginning
+# Iris - TheBeginning
+Это приквел моей игре Iris
